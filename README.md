@@ -1,4 +1,4 @@
-<h1 align="center">College Buddy ✨</h1>
+<h1 align="center">College Buddy</h1>
 
 ![Demo App](/client/public/screenshot-for-readme.png)
 
@@ -6,35 +6,35 @@ Welcome to the **College Buddy** project! This platform is designed to foster ne
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🔐 **Authentication System** with JWT  
-- 🛡️ **Route Protection** for secure access  
-- 👤 **User Profile Creation & Updates**  
-- 🖼️ **Profile Image Upload** via Cloudinary  
-- 🔄 **Interest Matching & Connection**  
-- 💬 **Real-time Chat Messaging**  
-- 🔔 **Real-time Notifications**  
-- 🤖 **AI Chatbot** for Academic Support  
-- 📂 **Centralized Resource Sharing**  
-- 📱 **Responsive Mobile-first Design**  
-- 🧠 **Smart Summarizer** trained on faculty notes  
-- ⌛ **PWA Support** for offline accessibility  
-
----
-
-## 🧰 Technologies & Frameworks
-
-- 🖥️ **Frontend:** React.js, Tailwind CSS  
-- ⚙️ **Backend:** Node.js, Express.js  
-- 💾 **Database:** Firebase Firestore / Supabase PostgreSQL  
-- ☁️ **Image Hosting:** Cloudinary  
-- 🤖 **AI Integration:** OpenAI API  
-- 🚀 **Deployment:** Vercel (Frontend), Firebase or Render (Backend)  
+- **Authentication System** with JWT  
+- **Route Protection** for secure access  
+- **User Profile Creation & Updates**  
+- **Profile Image Upload** via Cloudinary  
+- **Interest Matching & Connection**  
+- **Real-time Chat Messaging**  
+- **Real-time Notifications**  
+- **AI Chatbot** for Academic Support  
+- **Centralized Resource Sharing**  
+- **Responsive Mobile-first Design**  
+- **Smart Summarizer** trained on faculty notes  
+- **PWA Support** for offline accessibility  
 
 ---
 
-## 🛠️ Getting Started
+## Technologies & Frameworks
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** Firebase Firestore / Supabase PostgreSQL  
+- **Image Hosting:** Cloudinary  
+- **AI Integration:** OpenAI API  
+- **Deployment:** Vercel (Frontend), Firebase or Render (Backend)  
+
+---
+
+## Getting Started
 
 ### 1️⃣ Clone the repository:
 ```bash
@@ -64,7 +64,8 @@ CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
 CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
 ```
 
-🚧 Development Commands  
+## Development Commands  
+
 Start the backend:
 ```bash
 nodemon index.js
@@ -90,22 +91,11 @@ Start the production server:
 npm run start
 ```
 
-👥 Contributors  
+## Contributors  
+
 - **C013 Ashmit Jain** – ashmit27j  
 - **C035 Sukhada Gulhane** – sukhada35  
 - **C046 Neerav Reddy**  
 - **C058 Tanay Shah**  
-
-🤝 Contributing  
-We welcome contributions from the community:  
-1. Fork the repository  
-2. Create a feature branch  
-3. Commit changes with clear messages  
-4. Push to your fork  
-5. Open a pull request  
-
-📜 License  
-We dont have a license 
-
 📞 Contact  
 Dont contact us
